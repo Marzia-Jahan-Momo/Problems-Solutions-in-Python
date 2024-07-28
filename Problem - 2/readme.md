@@ -1,3 +1,6 @@
+## Problem - 2: Pallindrome Number ##
+
+
 Given an integer x, return true if x is a palindrome, and false otherwise. 
 A palindrome is a number that reads the same backward as forward. 
 
