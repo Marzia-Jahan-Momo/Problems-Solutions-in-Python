@@ -15,8 +15,6 @@ Symbols and their respective values:
 ```
 
 ---
----
----
 ## Solution -3: Roman To Integer ##
 
 ```python

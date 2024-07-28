@@ -9,8 +9,6 @@ For example:
 ```121 is a palindrome while 123 is not. ```
 
 ---
----
----
 ## Solution - 2: Pallindrome Number ##
 
 ``` python 
