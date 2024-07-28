@@ -1,7 +1,3 @@
-Creating a concise and effective `README.md` for your repository is a great way to help others understand the purpose and structure of your project. Here’s a template you can use for your GitHub repository:
-
----
-
 # Python Problems and Solutions
 
 Welcome to the **Python Problems and Solutions** repository! This repository contains a collection of Python coding problems and their solutions, organized to help you practice and improve your coding skills.
