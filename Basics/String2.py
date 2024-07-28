@@ -1,0 +1,2 @@
+y = "Jahan"
+print(y)
