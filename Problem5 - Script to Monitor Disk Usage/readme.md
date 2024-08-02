@@ -7,17 +7,17 @@
 
 import shutil
 
-def monitor_disk_usage(disk, threeshold):
+def monitor_disk_usage(disk, threshold):
     total, used, free = shutil.disk_usage(disk)
     usage_percentage = (used / total) * 100
     
-    return usage_percentage > threeshold, usage_percentage
+    return usage_percentage > threshold, usage_percentage
 
 def main():
     disk = "E:/"
-    threeshold = 80
+    threshold = 80
     
-    alert, usage_percentage = monitor_disk_usage(disk, threeshold)
+    alert, usage_percentage = monitor_disk_usage(disk, threshold)
     
     if alert: 
         print(f"Warning: Disk usage on {disk} has reached {usage_percentage:.2f}%. ")
